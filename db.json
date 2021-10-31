@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "ReactJs",
+      "status": "false"
+    },
+    {
+      "name": "Express",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "JavaScript",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "MongoDB",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "EJS",
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "HTML",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "CSS",
+      "status": false,
+      "id": 7
+    }
+  ]
+}
